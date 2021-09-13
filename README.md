@@ -4,6 +4,7 @@ Codename generator using WordNet parts of speech database
 
 References:
 
+* [https://possiblywrong.wordpress.com/2021/09/13/code-name-generator/](https://possiblywrong.wordpress.com/2021/09/13/code-name-generator/)
 * [https://possiblywrong.wordpress.com/2021/02/27/an-updated-google-books-word-frequency-list/](https://possiblywrong.wordpress.com/2021/02/27/an-updated-google-books-word-frequency-list/)
 * Google Books Ngram Viewer Exports, English versions [20120701 and 20200217](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
 * [WordNet](https://wordnet.princeton.edu/) Lexical Database for English version 3.1
